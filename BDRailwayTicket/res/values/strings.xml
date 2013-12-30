@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BDRailwayTicket</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="button_login">Login</string>
+    <string name="purchase_ticket">Purchase</string>
+    <string name="train_route">Train</string>
+    <string name="fair_query">Fair Query</string>
+    <string name="log_in_button">Log In</string>
+    <string name="todo">TODO</string>
+    <string name="email_label">E-mail:</string>
+    <string name="email_hint_text">Enter Your Email.</string>
+    <string name="password_label">Password:</string>
+    <string name="password_hint_text">Enter Your Password.</string>
+    <string name="BdRailWayTitle">bangladesh railway</string>
+
+</resources>
